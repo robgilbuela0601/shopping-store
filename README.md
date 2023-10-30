@@ -1,7 +1,7 @@
 # Steps to open
 1. Clone the repository
 2. Open the directory
-3. npm run install
+3. npm install
 4. npm run start
 5. Access through browser http://localhost:5174/
    
